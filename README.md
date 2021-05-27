@@ -14,7 +14,7 @@ Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
     Clone
     Commit
     Fetch
-    GIT
+    GIT - local client Version Control Software
     Github
     Merge
     Merge Conflict
